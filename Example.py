@@ -1,3 +1,4 @@
+#to use the LLM answering feature, uncomment the lines that run the language model and replace the model_name with your directory
 import csv
 from fuzzywuzzy import fuzz
 #from transformers import AutoModelForQuestionAnswering, AutoTokenizer
